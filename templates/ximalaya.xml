@@ -13,24 +13,16 @@
 		<language>
 			zh-cn
 		</language>
-		<summary>
-			{{ summary }}
-		</summary>
-		<author>
-			{{ author }}
-		</author>
-		<image href="{{{ image }}}" />
-		<author>
-			{{ author }}
-		</author>
-		<owner>
-			<name>
-				fuermosi777
-			</name>
-			<email>
-				liuhao1990@gmail.com
-			</email>
-		</owner>
+
+		<itunes:summary>{{ summary }}</itunes:summary>
+		<itunes:author>{{ author }}</itunes:author>
+		<itunes:image href="{{{ image }}}"/>
+		<itunes:author>{{ author }}</itunes:author>
+		<itunes:owner>
+		<itunes:name>fuermosi777</itunes:name>
+		<itunes:email>liuhao1990@gmail.com</itunes:email>
+		</itunes:owner>
+
 		<pubDate>
 			{{ date }}
 		</pubDate>
@@ -40,15 +32,13 @@
 				<title>
 					{{ title }}
 				</title>
-				<author>
-					{{ author }}
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					{{ summary }}
-				</summary>
-				<image href="{{{ image }}}" />
+
+				<itunes:author>{{ author }}</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> {{ summary }} </p> ]]>
+				</itunes:summary>
+				<itunes:image href="{{{ image }}}"/>
 				<enclosure url="{{{ audio }}}" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>

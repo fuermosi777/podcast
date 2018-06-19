@@ -29,7 +29,7 @@ function generateXimalaya() {
             for (let item of items) {
                 item.title = item.trackName;
                 item.author = source.author;
-                item.summary = source.trackName;
+                item.summary = item.trackName;
                 item.image = source.image;
                 item.audio = item.src;
                 item.duration = item.duration;

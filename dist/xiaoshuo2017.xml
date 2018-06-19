@@ -13,41 +13,31 @@
 		<language>
 			zh-cn
 		</language>
-		<summary>
-			高晓松回归，喜马拉雅FM《晓说2017》联合独播，每周五不见不散，听矮大紧老师谈笑风生，聊超级碗、颁奖季，讲讲满是历史干货的小故事。瓜子、啤酒、小板凳，洗马君已经为各位客官备好，只等你来听。
-		</summary>
-		<author>
-			高晓松
-		</author>
-		<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
-		<author>
-			高晓松
-		</author>
-		<owner>
-			<name>
-				fuermosi777
-			</name>
-			<email>
-				liuhao1990@gmail.com
-			</email>
-		</owner>
+
+		<itunes:summary>高晓松回归，喜马拉雅FM《晓说2017》联合独播，每周五不见不散，听矮大紧老师谈笑风生，聊超级碗、颁奖季，讲讲满是历史干货的小故事。瓜子、啤酒、小板凳，洗马君已经为各位客官备好，只等你来听。</itunes:summary>
+		<itunes:author>高晓松</itunes:author>
+		<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
+		<itunes:author>高晓松</itunes:author>
+		<itunes:owner>
+		<itunes:name>fuermosi777</itunes:name>
+		<itunes:email>liuhao1990@gmail.com</itunes:email>
+		</itunes:owner>
+
 		<pubDate>
-			Mon Jun 18 2018 21:46:06 GMT-0700
+			Mon Jun 18 2018 21:50:54 GMT-0700
 		</pubDate>
 
 			<item>
 				<title>
 					晓说第55期：古代金融之二--央妈传奇
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第55期：古代金融之二--央妈传奇 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group40/M00/C7/16/wKgJT1ri6OXw12BxAPmhT4lxIGw733.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -55,22 +45,20 @@
 					2020
 				</duration>
 				<pubDate>
-					Fri May 18 2018 21:46:06 GMT-0700
+					Fri May 18 2018 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第54期：古代金融之一--货币物语
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第54期：古代金融之一--货币物语 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group42/M06/32/EF/wKgJ9FrYQ6PxgdnOARD_frK3mds915.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -78,22 +66,20 @@
 					2209
 				</duration>
 				<pubDate>
-					Wed Apr 18 2018 21:46:06 GMT-0700
+					Wed Apr 18 2018 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第53期：1919手工制造新世界（二）西线无战事
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第53期：1919手工制造新世界（二）西线无战事 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group41/M02/59/B1/wKgJ8VrNfvGhRKcEAR2uN0J9LKQ386.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -101,22 +87,20 @@
 					2312
 				</duration>
 				<pubDate>
-					Wed Apr 18 2018 21:46:06 GMT-0700
+					Wed Apr 18 2018 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第52期：1919手工制造新世界（一）复仇者联盟
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第52期：1919手工制造新世界（一）复仇者联盟 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group42/M0A/11/2B/wKgJ9FrJfOzQ3Hy8AU3751m2BsA952.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -124,22 +108,20 @@
 					2703
 				</duration>
 				<pubDate>
-					Wed Apr 18 2018 21:46:06 GMT-0700
+					Wed Apr 18 2018 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第51期：口述历史--对谈樊建川（三）永别了武器
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第51期：口述历史--对谈樊建川（三）永别了武器 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group42/M02/20/E5/wKgJ9Fq8taTRNM9vARmQFzG_WyU577.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -147,22 +129,20 @@
 					2279
 				</duration>
 				<pubDate>
-					Wed Apr 18 2018 21:46:06 GMT-0700
+					Wed Apr 18 2018 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第50期：口述历史--对谈樊建川（二）中国占领军进驻日本
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第50期：口述历史--对谈樊建川（二）中国占领军进驻日本 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group40/M05/3B/57/wKgJT1qyBaaToaapAT1WfgrCTvE058.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -170,22 +150,20 @@
 					2568
 				</duration>
 				<pubDate>
-					Wed Apr 18 2018 21:46:06 GMT-0700
+					Wed Apr 18 2018 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第49期：口述历史--对谈樊建川（一）抗战记忆：子弹、毛毯与家书
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第49期：口述历史--对谈樊建川（一）抗战记忆：子弹、毛毯与家书 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group41/M07/BC/BC/wKgJ8lqne2nhGTVwARAqlLPBGV4529.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -193,22 +171,20 @@
 					2203
 				</duration>
 				<pubDate>
-					Sun Mar 18 2018 21:46:06 GMT-0700
+					Sun Mar 18 2018 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第48期：美食演义（四）烧烤、刺客、鱼
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第48期：美食演义（四）烧烤、刺客、鱼 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group41/M05/4E/6E/wKgJ8lqg15qyjNyrAUYKHRlZQSc679.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -216,22 +192,20 @@
 					2639
 				</duration>
 				<pubDate>
-					Sun Mar 18 2018 21:46:06 GMT-0700
+					Sun Mar 18 2018 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第47期：美食演义（三）火锅王朝
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第47期：美食演义（三）火锅王朝 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group41/M02/4F/16/wKgJ8lqWc8PTqI0NAR-2CcUedxk652.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -239,22 +213,20 @@
 					2329
 				</duration>
 				<pubDate>
-					Sun Mar 18 2018 21:46:06 GMT-0700
+					Sun Mar 18 2018 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第46期：2018说说心里话
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第46期：2018说说心里话 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group2/M01/47/07/wKgJRFqOhoeRNyjtAZ9IBg5t8OI747.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -262,22 +234,20 @@
 					3361
 				</duration>
 				<pubDate>
-					Sun Mar 18 2018 21:46:06 GMT-0700
+					Sun Mar 18 2018 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第45期：欧洲尽头爱尔兰（五）打倒“帝国主义”
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第45期：欧洲尽头爱尔兰（五）打倒“帝国主义” </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group38/M01/FA/E9/wKgJolqAGRyh4oDzAPBBrlMMXbE963.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -285,22 +255,20 @@
 					1944
 				</duration>
 				<pubDate>
-					Sun Feb 18 2018 21:46:06 GMT-0800
+					Sun Feb 18 2018 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第44期：芳华过后--与冯小刚谈谈人生如戏
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第44期：芳华过后--与冯小刚谈谈人生如戏 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group38/M08/AE/EB/wKgJolp9LB2zqnF_AUS7T5tmCvI214.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -308,22 +276,20 @@
 					2628
 				</duration>
 				<pubDate>
-					Sun Feb 18 2018 21:46:06 GMT-0800
+					Sun Feb 18 2018 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第43期：剑王与剑王--徐克和吴宇森谈谈兄弟情
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第43期：剑王与剑王--徐克和吴宇森谈谈兄弟情 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group39/M0A/AC/DB/wKgJn1py-8eTFF6RASC1iqQd3TA283.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -331,22 +297,20 @@
 					2337
 				</duration>
 				<pubDate>
-					Sun Feb 18 2018 21:46:06 GMT-0800
+					Sun Feb 18 2018 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第42期：楼兰古国（下）军粮军妓烽火台
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第42期：楼兰古国（下）军粮军妓烽火台 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group39/M01/C5/F7/wKgJnlppqSHAvfrJAQmWR1o4TDk708.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -354,22 +318,20 @@
 					2149
 				</duration>
 				<pubDate>
-					Sun Feb 18 2018 21:46:06 GMT-0800
+					Sun Feb 18 2018 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第41期：楼兰古国（上）大漠新娘
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第41期：楼兰古国（上）大漠新娘 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group17/M05/F5/1D/wKgJJFpgbYOwMJNmAQo9sb77xy8985.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -377,22 +339,20 @@
 					2155
 				</duration>
 				<pubDate>
-					Thu Jan 18 2018 21:46:06 GMT-0800
+					Thu Jan 18 2018 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第40期：口述历史--与吴秀波谈谈歌厅​
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第40期：口述历史--与吴秀波谈谈歌厅​ </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group21/M09/00/8F/wKgJLVpXNuTgymRjAU9mmJxsZCg630.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -400,22 +360,20 @@
 					2715
 				</duration>
 				<pubDate>
-					Thu Jan 18 2018 21:46:06 GMT-0800
+					Thu Jan 18 2018 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第39期：口述历史--与成龙谈谈“黑社会”
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第39期：口述历史--与成龙谈谈“黑社会” </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group36/M05/29/29/wKgJTVpN10DCs1lmAUzElbz76uQ697.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -423,22 +381,20 @@
 					2693
 				</duration>
 				<pubDate>
-					Thu Jan 18 2018 21:46:06 GMT-0800
+					Thu Jan 18 2018 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第38期：口述历史--与冯小刚谈谈芳华（上）
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第38期：口述历史--与冯小刚谈谈芳华（上） </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group36/M0A/63/6E/wKgJTVpExsqAhJdeARmS0I9F3qw297.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -446,22 +402,20 @@
 					2279
 				</duration>
 				<pubDate>
-					Thu Jan 18 2018 21:46:06 GMT-0800
+					Thu Jan 18 2018 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第37期：口述历史--与徐克谈谈外星人
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第37期：口述历史--与徐克谈谈外星人 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group36/M08/92/A3/wKgJUlo6FoPC2uA_AQlJ7Ora-f0448.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -469,22 +423,20 @@
 					2147
 				</duration>
 				<pubDate>
-					Thu Jan 18 2018 21:46:06 GMT-0800
+					Thu Jan 18 2018 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第36期：欧洲尽头爱尔兰（四）当你老了
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第36期：欧洲尽头爱尔兰（四）当你老了 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group36/M0A/F0/81/wKgJUlow83qTwAXyAQi-bqjROUk629.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -492,22 +444,20 @@
 					2143
 				</duration>
 				<pubDate>
-					Mon Dec 18 2017 21:46:06 GMT-0800
+					Mon Dec 18 2017 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第35期：欧洲尽头爱尔兰（三）与总统对谈
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第35期：欧洲尽头爱尔兰（三）与总统对谈 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group36/M0A/02/34/wKgJUlons3rT1n5eASN2Y-kPw3w370.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -515,22 +465,20 @@
 					2359
 				</duration>
 				<pubDate>
-					Mon Dec 18 2017 21:46:06 GMT-0800
+					Mon Dec 18 2017 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第34期：口述历史--与吴宇森谈谈女人
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第34期：口述历史--与吴宇森谈谈女人 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group31/M07/E7/2E/wKgJX1oeX6fD6HsGAR_9_qGgIvg771.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -538,22 +486,20 @@
 					2331
 				</duration>
 				<pubDate>
-					Mon Dec 18 2017 21:46:06 GMT-0800
+					Mon Dec 18 2017 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第33期：美食演义（二）矮大紧的私房菜
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第33期：美食演义（二）矮大紧的私房菜 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group36/M00/FF/DE/wKgJUloqW7DR2Y0qAUGCDUJ4WZc680.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -561,22 +507,20 @@
 					2602
 				</duration>
 				<pubDate>
-					Mon Dec 18 2017 21:46:06 GMT-0800
+					Mon Dec 18 2017 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第32期：美食演义（一）小麦的胜利
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第32期：美食演义（一）小麦的胜利 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group36/M05/FF/90/wKgJUloqWtygf8wAASkubPFYIxI575.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -584,22 +528,20 @@
 					2405
 				</duration>
 				<pubDate>
-					Sat Nov 18 2017 21:46:06 GMT-0800
+					Sat Nov 18 2017 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第31期：三国最美两女神
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第31期：三国最美两女神 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group36/M09/FF/2F/wKgJUloqWfGQDudAAVGvCU8_t_4543.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -607,22 +549,20 @@
 					2733
 				</duration>
 				<pubDate>
-					Sat Nov 18 2017 21:46:06 GMT-0800
+					Sat Nov 18 2017 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第30期：欧洲尽头爱尔兰（二）老友记
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第30期：欧洲尽头爱尔兰（二）老友记 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group36/M07/FE/E1/wKgJUloqWSKD6iypAQm97mSJp4M091.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -630,22 +570,20 @@
 					2151
 				</duration>
 				<pubDate>
-					Sat Nov 18 2017 21:46:06 GMT-0800
+					Sat Nov 18 2017 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第29期：欧洲尽头爱尔兰（一）好酒与好人
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第29期：欧洲尽头爱尔兰（一）好酒与好人 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group34/M01/13/09/wKgJYVnwOz2BvIcoASjEsoTgosE427.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -653,22 +591,20 @@
 					2402
 				</duration>
 				<pubDate>
-					Sat Nov 18 2017 21:46:06 GMT-0800
+					Sat Nov 18 2017 21:50:54 GMT-0800
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第28期：三体（四）人类挽歌
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第28期：三体（四）人类挽歌 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group34/M0A/1B/47/wKgJYVnm8h-hJo6DAO6Hr1y8YCI819.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -676,22 +612,20 @@
 					1930
 				</duration>
 				<pubDate>
-					Wed Oct 18 2017 21:46:06 GMT-0700
+					Wed Oct 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第27期： 三体（三）死神永生
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第27期： 三体（三）死神永生 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group34/M03/15/51/wKgJYVnd9V6S9yykAQsbbF9wyKk768.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -699,22 +633,20 @@
 					2162
 				</duration>
 				<pubDate>
-					Wed Oct 18 2017 21:46:06 GMT-0700
+					Wed Oct 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第26期： 三体（二）黑暗森林
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第26期： 三体（二）黑暗森林 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group34/M08/04/8D/wKgJYVnWVjbB1vsIAPrZ3hevitw913.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -722,22 +654,20 @@
 					2030
 				</duration>
 				<pubDate>
-					Wed Oct 18 2017 21:46:06 GMT-0700
+					Wed Oct 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第25期：三体（一）圣母和小镇青年
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第25期：三体（一）圣母和小镇青年 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group30/M08/0D/07/wKgJXlnLXpmz3defARcueNh1Xl8989.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -745,22 +675,20 @@
 					2260
 				</duration>
 				<pubDate>
-					Wed Oct 18 2017 21:46:06 GMT-0700
+					Wed Oct 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第24期：口述历史对谈马未都（下）京城旧事
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第24期：口述历史对谈马未都（下）京城旧事 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group31/M05/FF/04/wKgJSVnCNubBRflFATwq8Oyrx4o082.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -768,22 +696,20 @@
 					2559
 				</duration>
 				<pubDate>
-					Mon Sep 18 2017 21:46:06 GMT-0700
+					Mon Sep 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第23期：口述历史对谈马未都（上）老北京寻宝记
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第23期：口述历史对谈马未都（上）老北京寻宝记 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M0A/92/03/wKgJnFm5A0_RZMdGAP0lPlj0TMQ759.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -791,22 +717,20 @@
 					2049
 				</duration>
 				<pubDate>
-					Mon Sep 18 2017 21:46:06 GMT-0700
+					Mon Sep 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第22期：三国梦之队（六）军师的女人们
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第22期：三国梦之队（六）军师的女人们 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group33/M09/44/AF/wKgJnVmw9tGjW_yYAU1QF1EaCQs239.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -814,22 +738,20 @@
 					2698
 				</duration>
 				<pubDate>
-					Mon Sep 18 2017 21:46:06 GMT-0700
+					Mon Sep 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第21期：三国梦之队（五）军师联盟
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第21期：三国梦之队（五）军师联盟 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M04/F0/49/wKgJS1mn4czRQbaPARlvkywQniA684.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -837,22 +759,20 @@
 					2278
 				</duration>
 				<pubDate>
-					Mon Sep 18 2017 21:46:06 GMT-0700
+					Mon Sep 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第20期：三国梦之队（四）十项全能CEO
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第20期：三国梦之队（四）十项全能CEO </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M04/71/9C/wKgJnFmdSUbSRGs6AS2RyPfDELA342.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -860,22 +780,20 @@
 					2441
 				</duration>
 				<pubDate>
-					Mon Sep 18 2017 21:46:06 GMT-0700
+					Mon Sep 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第19期：三国梦之队（三）谁是董事长
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第19期：三国梦之队（三）谁是董事长 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group26/M0A/F9/3F/wKgJWFmUGWbhE66LASxb7evNh6k148.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -883,22 +801,20 @@
 					2431
 				</duration>
 				<pubDate>
-					Fri Aug 18 2017 21:46:06 GMT-0700
+					Fri Aug 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第18期：三国梦之队（二）连环劫
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第18期：三国梦之队（二）连环劫 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group31/M00/B6/6B/wKgJSVmK1oizmJV9ASc4OCk3BHY545.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -906,22 +822,20 @@
 					2389
 				</duration>
 				<pubDate>
-					Fri Aug 18 2017 21:46:06 GMT-0700
+					Fri Aug 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第17期：三国梦之队（一）魏天时蜀地利吴人和
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第17期：三国梦之队（一）魏天时蜀地利吴人和 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group30/M07/6B/4C/wKgJXlmDBCXRGRE5AT5aafWU6GY084.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -929,22 +843,20 @@
 					2577
 				</duration>
 				<pubDate>
-					Fri Aug 18 2017 21:46:06 GMT-0700
+					Fri Aug 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第16期：拿破仑尾声（下）王者荣耀
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第16期：拿破仑尾声（下）王者荣耀 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group31/M02/B0/DE/wKgJX1l5l96CGQp3APP3v8zv2I8594.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -952,22 +864,20 @@
 					1974
 				</duration>
 				<pubDate>
-					Fri Aug 18 2017 21:46:06 GMT-0700
+					Fri Aug 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第15期：拿破仑尾声（上）一份遗嘱引发的血案
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第15期：拿破仑尾声（上）一份遗嘱引发的血案 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M07/E0/0E/wKgJS1n5mSKDZN88ATRuBZ5f1R0320.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -975,22 +885,20 @@
 					2496
 				</duration>
 				<pubDate>
-					Tue Jul 18 2017 21:46:06 GMT-0700
+					Tue Jul 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第14期：鲁迅尾声（下）鲁郭茅巴老曹
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第14期：鲁迅尾声（下）鲁郭茅巴老曹 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M06/E0/06/wKgJS1n5mOOD5vntASN9vODJrEY797.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -998,22 +906,20 @@
 					2359
 				</duration>
 				<pubDate>
-					Tue Jul 18 2017 21:46:06 GMT-0700
+					Tue Jul 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第13期：鲁迅尾声（上）那些教科书没讲的事
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第13期：鲁迅尾声（上）那些教科书没讲的事 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M06/E0/06/wKgJS1n5mOTgvsIQASxdaWubNtw668.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1021,22 +927,20 @@
 					2431
 				</duration>
 				<pubDate>
-					Tue Jul 18 2017 21:46:06 GMT-0700
+					Tue Jul 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第12期：一张唱片的诞生（下）夏天快乐
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第12期：一张唱片的诞生（下）夏天快乐 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M05/97/F0/wKgJUFn5mQexpGXwAQ4qGN-it_M725.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1044,22 +948,20 @@
 					2187
 				</duration>
 				<pubDate>
-					Tue Jul 18 2017 21:46:06 GMT-0700
+					Tue Jul 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第11期：一张唱片的诞生（上）那些弹琴少年
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第11期：一张唱片的诞生（上）那些弹琴少年 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M05/97/EE/wKgJUFn5mPvzaWbsASG5dI5GLa4123.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1067,22 +969,20 @@
 					2345
 				</duration>
 				<pubDate>
-					Sun Jun 18 2017 21:46:06 GMT-0700
+					Sun Jun 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第10期：金瓶梅拾遗（下） 明朝房市揭秘
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第10期：金瓶梅拾遗（下） 明朝房市揭秘 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M05/97/EB/wKgJUFn5mN2QjTL-ARnNjMcNvfQ400.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1090,22 +990,20 @@
 					2281
 				</duration>
 				<pubDate>
-					Sun Jun 18 2017 21:46:06 GMT-0700
+					Sun Jun 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第9期：金瓶梅拾遗（上）明朝那些事
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第9期：金瓶梅拾遗（上）明朝那些事 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M01/DF/FB/wKgJS1n5mITyfUaXAQHmlMASkjI128.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1113,22 +1011,20 @@
 					2087
 				</duration>
 				<pubDate>
-					Sun Jun 18 2017 21:46:06 GMT-0700
+					Sun Jun 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第8期：高晓松YY未来世界（下）败给AlphaGo之后
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第8期：高晓松YY未来世界（下）败给AlphaGo之后 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M0B/97/E2/wKgJUFn5mI-yTQ7rATbLA-y6zFw520.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1136,22 +1032,20 @@
 					2515
 				</duration>
 				<pubDate>
-					Sun Jun 18 2017 21:46:06 GMT-0700
+					Sun Jun 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第7期：高晓松YY未来世界（上）
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第7期：高晓松YY未来世界（上） </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M01/DF/F9/wKgJS1n5mHCzdvreAQfR_03SOLk848.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1159,22 +1053,20 @@
 					2135
 				</duration>
 				<pubDate>
-					Sun Jun 18 2017 21:46:06 GMT-0700
+					Sun Jun 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第6期：朝花夕拾之回忆胶片时代
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第6期：朝花夕拾之回忆胶片时代 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M01/DF/F9/wKgJS1n5mHKwhJgmATfpXdRP6wo429.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1182,22 +1074,20 @@
 					2525
 				</duration>
 				<pubDate>
-					Sun Jun 18 2017 21:46:06 GMT-0700
+					Sun Jun 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第5期：《金瓶梅》--国民老公现形记
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第5期：《金瓶梅》--国民老公现形记 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M0B/97/DD/wKgJUFn5mGmQXLmSAVvWKkfB9uc087.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1205,22 +1095,20 @@
 					2815
 				</duration>
 				<pubDate>
-					Sun Jun 18 2017 21:46:06 GMT-0700
+					Sun Jun 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第4期：《金瓶梅》--西门庆创业史
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第4期：《金瓶梅》--西门庆创业史 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M08/DF/F3/wKgJS1n5mEfASadgAR9sndo6mY8821.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1228,22 +1116,20 @@
 					2326
 				</duration>
 				<pubDate>
-					Sun Jun 18 2017 21:46:06 GMT-0700
+					Sun Jun 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第3期：《金瓶梅》--金莲和黛玉
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第3期：《金瓶梅》--金莲和黛玉 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M04/DF/ED/wKgJS1n5mBzhkBB3ARYdWSI55BI067.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1251,22 +1137,20 @@
 					2251
 				</duration>
 				<pubDate>
-					Sun Jun 18 2017 21:46:06 GMT-0700
+					Sun Jun 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					晓说第2期：攻陷好莱坞
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 晓说第2期：攻陷好莱坞 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M04/DF/EB/wKgJS1n5mAqweAxOARGsxlC4o54841.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1274,22 +1158,20 @@
 					2215
 				</duration>
 				<pubDate>
-					Sun Jun 18 2017 21:46:06 GMT-0700
+					Sun Jun 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 			<item>
 				<title>
 					高晓松回归喜马拉雅：第1期漫谈颁奖季
 				</title>
-				<author>
-					高晓松
-				</author>
-				<subtitle>
-				</subtitle>
-				<summary>
-					
-				</summary>
-				<image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg" />
+
+				<itunes:author>高晓松</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary>
+				<![CDATA[ <p> 高晓松回归喜马拉雅：第1期漫谈颁奖季 </p> ]]>
+				</itunes:summary>
+				<itunes:image href="http://imagev2.xmcdn.com/group41/M03/22/AD/wKgJ8lq8tEfRn1KnAAD3RcTQrRU315.jpg"/>
 				<enclosure url="http://audio.xmcdn.com/group32/M03/97/CB/wKgJUFn5l9zh1zdFAIrwtdwaMXI424.m4a" type="audio/mpeg" />
 				<guid isPermaLink="true">
 				</guid>
@@ -1297,7 +1179,7 @@
 					1124
 				</duration>
 				<pubDate>
-					Sun Jun 18 2017 21:46:06 GMT-0700
+					Sun Jun 18 2017 21:50:54 GMT-0700
 				</pubDate>
 			</item>
 	</channel>
