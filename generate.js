@@ -5,7 +5,7 @@ const fs = require('fs');
 const Mustache = require('mustache');
 const moment = require('moment');
 
-const templateXimalaya = fs.readFileSync('./templates/ximalaya.xml', 'utf-8');
+const template = fs.readFileSync('./template.xml', 'utf-8');
 
 const instance = axios.create({
     timeout: 2000,
@@ -40,7 +40,7 @@ function generateXimalaya() {
             source.date = today.toString();
             source.items = items;
 
-            const output = Mustache.render(templateXimalaya, source);
+            const output = Mustache.render(template, source);
             fs.writeFileSync(`./dist/${source.en}.xml`, output, 'utf-8');
 
         }).catch(err => {

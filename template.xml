@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+      <title>{{ title }}</title>
+      <link>{{{ link }}}</link>
+      <description>{{ description }}</description>
+      <language>zh-cn</language>
+      <itunes:summary>{{ description }}</itunes:summary>
+      <itunes:author>{{ author }}</itunes:author>
+      <itunes:image href="{{{ image }}}"/>
+      <itunes:owner>
+        <itunes:name>fuermosi777</itunes:name>
+        <itunes:email>liuhao1990@gmail.com</itunes:email>
+      </itunes:owner>
+      <pubDate>{{ date }}</pubDate>
+        
+      {{#items}}
+      <item>
+        <title>{{ title }}</title>
+        <itunes:author>{{ author }}</itunes:author>
+        <itunes:subtitle>摇号买房的城市会越来越多吗?</itunes:subtitle>
+        <itunes:summary><![CDATA[ 
+        <p> {{ summary }} </p>
+                ]]>
+        </itunes:summary>
+        <itunes:image href="{{{ image }}}"/>
+        <enclosure url="{{{ audio }}}"  type="audio/mpeg"/>
+        <guid isPermaLink="true"></guid>
+        <itunes:duration>{{ duration }}</itunes:duration>
+        <pubDate>{{ date }}</pubDate>
+      </item>
+      {{/items}}
+    </channel>
+</rss>
