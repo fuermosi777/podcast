@@ -41,7 +41,7 @@ function generateXimalaya() {
             source.items = items;
 
             const output = Mustache.render(templateXimalaya, source);
-            fs.writeFileSync(`./dist/${source.title}.xml`, output);
+            fs.writeFileSync(`./dist/${source.en}.xml`, output, 'utf-8');
 
         }).catch(err => {
             console.log(err.message)

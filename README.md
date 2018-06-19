@@ -1,1 +1,3 @@
-## TOOD
+## Generate
+
+`node generate`
