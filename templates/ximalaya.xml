@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>
+			{{ title }}
+		</title>
+		<link>
+			{{{ link }}}
+		</link>
+		<description>
+			{{ description }}
+		</description>
+		<language>
+			zh-cn
+		</language>
+		<summary>
+			{{ summary }}
+		</summary>
+		<author>
+			{{ author }}
+		</author>
+		<image href="{{{ image }}}" />
+		<author>
+			{{ author }}
+		</author>
+		<owner>
+			<name>
+				fuermosi777
+			</name>
+			<email>
+				liuhao1990@gmail.com
+			</email>
+		</owner>
+		<pubDate>
+			{{ date }}
+		</pubDate>
+
+		{{#items}}
+			<item>
+				<title>
+					{{ title }}
+				</title>
+				<author>
+					{{ author }}
+				</author>
+				<subtitle>
+				</subtitle>
+				<summary>
+					{{ summary }}
+				</summary>
+				<image href="{{{ image }}}" />
+				<enclosure url="{{{ audio }}}" type="audio/mpeg" />
+				<guid isPermaLink="true">
+				</guid>
+				<duration>
+					{{ duration }}
+				</duration>
+				<pubDate>
+					{{ date }}
+				</pubDate>
+			</item>
+		{{/items}}
+	</channel>
+</rss>
