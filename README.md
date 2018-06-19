@@ -1,8 +1,10 @@
-## Generate
+## Generate list to dist folder
 
 `node generate`
 
 ## Podcast list
 
-- [晓说2018](https://raw.githubusercontent.com/fuermosi777/podcast/master/dist/xiaoshuo2018.xml)
-- [晓说2017](https://raw.githubusercontent.com/fuermosi777/podcast/master/dist/xiaoshuo2017.xml)
+Use this website to generate raw xml url: [https://rawgit.com/](https://rawgit.com/)
+
+- [晓说2018](https://cdn.rawgit.com/fuermosi777/podcast/06c6c450/dist/xiaoshuo2018.xml)
+- [晓说2017](https://cdn.rawgit.com/fuermosi777/podcast/06c6c450/dist/xiaoshuo2017.xml)
