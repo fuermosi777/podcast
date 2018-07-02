@@ -23,6 +23,7 @@ function generateXimalaya() {
     const sources = source[Source.Ximalaya];
     const today = moment();
     for (let source of sources) {
+      if (!source.complete) {
         const url = Source.getUrl(Source.Ximalaya, source.id);
         instance.get(url).then(response => {
             let items = response.data.data.tracksAudioPlay;
@@ -46,6 +47,7 @@ function generateXimalaya() {
         }).catch(err => {
             console.log(err.message)
         });
+      }
     }
 }
 
